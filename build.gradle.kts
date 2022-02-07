@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "io.github.eroshenkoam"
-version = "1.0-SNAPSHOT"
+version = version
 
 repositories {
     mavenCentral()
